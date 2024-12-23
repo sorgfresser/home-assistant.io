@@ -40,7 +40,7 @@ In YAML, your action will look like this:
 ```yaml
 action: tts.speak
 target:
-  entity_id: tts.elevenlabs
+  entity_id: tts.elevenlabs_elevenlabs_eleven_multilingual_v2
 data:
   media_player_entity_id: media_player.giant_tv
   message: Hello, can you hear me now?
