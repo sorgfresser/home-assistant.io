@@ -57,11 +57,11 @@ Below settings can be configured in the options of the integration and in the `o
 {% configuration %}
 
 voice:
-  description: "Voice id for the ElevenLabs voice to use. Will override the default voice of the entity!"
+  description: "Voice ID for the ElevenLabs voice to use. Will override the default voice of the entity!"
   required: false
   type: string
 model:
-  description: "Model id for the model to use. Will override the default model of the entity!"
+  description: "Model ID for the model to use. Will override the default model of the entity!"
   required: false
   type: string
 
